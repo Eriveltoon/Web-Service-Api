@@ -11,6 +11,14 @@ use Illuminate\Support\Str;
 
 class CategoriaController extends Controller
 {
+    /**
+     * @OA\Get(
+     * 
+     * )
+     * 
+     * 
+     */
+
 
      /**
       * @OA\Get(
